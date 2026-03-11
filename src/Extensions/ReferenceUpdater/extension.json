@@ -1,0 +1,10 @@
+{
+"author": "Variable",
+"description": "Reference Updater",
+"display_name": "Reference Updater",
+"license": "MIT",
+"name": "ReferenceUpdater",
+"nodes": ["Main.tscn"],
+"supported_api_versions": [8],
+"version": "0.1"
+}
